@@ -1,4 +1,4 @@
-## Sentiment Analysis on Amazon Fine Foods Reviews
+# Sentiment Analysis on Amazon Fine Foods Reviews
 
 # Welcome!
 Welcome to the sentiment analysis project on Amazon Fine Foods reviews! This project explores the sentiment expressed in customer reviews using two powerful techniques: VADER (Valence Aware Dictionary and sEntiment Reasoner) and a pre-trained Roberta model from Hugging Face 🤗 Transformers library.
